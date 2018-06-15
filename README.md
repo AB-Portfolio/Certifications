@@ -12,7 +12,7 @@
 
 ### CCNA1
 #### Introduction to Networking
-##### <a href="">Link to Certification</a>
+##### <a href="https://github.com/AB-Portfolio/Certifications/blob/master/AshtynBanks-2018%2BFebruary%2BIntrod-Certificate.pdf">Link to Certification</a>
 
 ### HCS 3000
 #### Workplace Safety Systems Course
